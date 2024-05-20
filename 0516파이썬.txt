@@ -1,0 +1,134 @@
+윈도우시작
+Anaconda3(64-bit)클릭
+ㄴAnaconda navigator클릭
+  ㄴHome  Applications on: ck선택
+    ck선택후  VScode편집기 Launch
+    VScode편집기 왼쪽5번째 아이콘확장 python입력후 라이브러리 연결
+    VScode편집기 오른쪽 상태바 ~~~python 3.11(ck : conda) 
+
+파이썬언의 특징
+ㄴ출력 print() 라인개행 
+ㄴ다양한변수타입 기술X 변수이름=값 
+ㄴ연산 su++  --su  ++su 단항연산X
+ㄴ제어 if 조건: 들여쓰기  else: 들여쓰기
+ㄴ제어 switch지원X
+
+ㄴ반복 for,while, do~whileX
+ㄴ반복 do~while지원X
+ㄴ배열 ['kim', 27, True] (튜플) {set} {dict}
+ㄴ함수  def 함수(): 들여쓰기해서 내용기술 
+ㄴ자바에서 import  java.sql.Statemen ;
+
+ㄴ파이썬 임포트 다양하게기술
+  import math내장된라이브러리
+  import random내장된라이브러리
+
+ 선설치 pip install numpy 
+ 후임포트 import numpy as np
+
+
+
+
+빅데이터의 최적언어 python
+ㄴ많은양이 데이터=대량의데이터(물리적인파일, db, CDN방식=RESTAPI방식)
+ㄴ분석의 근계 통계학 
+ㄴ분석후 성향,동향,흐름 시각화 -그래프,워드클라우드,지도
+ㄴ대량데이터 분석후 학습화(머신러닝,딥러닝) 
+ㄴ학습(지도학습,비지도학습,강화학습)
+
+https://www.anaconda.com
+https://www.python.org
+
+VScode설치   https://code.visualstudio.com/download
+아나콘다설치   https://www.anaconda.com/products/individual/download-success
+
+윈도우시작
+Anaconda3(64-bit)클릭
+ㄴAnaconda navigator클릭
+  ㄴHome  Applications on: ck선택
+    ck선택후  VScode편집기 Launch
+    VScode편집기 왼쪽5번째 아이콘확장 python입력후 라이브러리 연결
+    VScode편집기 오른쪽 상태바 ~~~python 3.11(ck : conda) 
+
+파이썬,빅데이터=BigData
+ ㄴ아나콘다 + vsCode편집기(쥬피터노트북, 코랩), 파이참,  
+ ㄴ파이썬문법, 판다스, numpy, 공공데이터API, 시각화, 웹크롤링
+ ㄴ선형회귀공식 머신러닝,딥러닝
+ ㄴ시각화(차트그래프,맵지도,워드클라우드) + 파이썬기반문법적용
+ ㄴ분산파일처리 하듑(리눅스기반,하듑,스파크)
+ ㄴAI학습러닝(딥러닝,머신러닝)==>알파고,추천,의료,번역,환경
+ ㄴR프로그램(통계프로그램)
+ ㄴ서버웹페이지프로그램(파이썬Django,파이썬Flask,asp,aspx,php,jsp)
+
+chromedirver사이트
+ ㄴhttps://chromedriver.storage.googleapis.com/index.html?path=86.0.4240.22/
+
+https://www.data.go.kr        ===>가입권장
+https://developers.kakao.com  ===>가입권장
+https://www.ncloud.com         ===>카드등록해야만 지도맵서비스사용
+https://developers.naver.com/main/  ==> 비권장
+
+
+파이썬 언어 규칙
+ ㄴ 타입생략 titl = 'sunny' 
+ ㄴ 문장마지막 세미콜론 생략 titl = 'sunny' 
+ ㄴ 문자,문자열   'snow안내문'  "snow안내문"
+ ㄴ print('안내문 ' , 값)  
+ ㄴ 주석 #  
+ ㄴ 파이썬 들여쓰기 끝판왕 
+ ㄴ 함수 def 함수():
+         들여쓰기 내용기술
+
+
+5월16일 목요일
+ ㄴ입력키보드
+ ㄴ형변환
+ ㄴ연산,if제어문 기술
+
+
+ 과일 = [ ]  리스트
+ 커피 = ( ) 튜플 
+ 회원 = { 키:value, }  딕트dict
+ message1  = '  ' 
+ message2  = "   "
+ 출력 print( '안내문 ' , 데이터 ) 
+
+ kor = 90 
+ eng = 85
+ hap = kor + eng
+ avg = hap / 2 
+ msg = '' 
+ if avg >= 70 :
+    msg ='축합격'
+ else: 
+    msg ='재시험'
+
+
+ grade ='F'
+ if avg >= 90 :
+    grade ='A'
+ elif avg >= 80: 
+    grade = 'B'
+ else:
+    grade = 'F' 
+
+ for(int k=0; k<10; k++) { }
+
+
+ fruits = [ ]  리스트
+ for k in fruits:
+    print( k ) 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
